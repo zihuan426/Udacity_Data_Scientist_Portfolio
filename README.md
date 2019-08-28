@@ -8,5 +8,5 @@ In this project, I analyzed Twitter US Airline Sentiment data in order to create
 ### Project 2: Disaster Response 
 In this project, I processed disaster messages and build a ETL pipeline and machine learning pipeline, making it easier to help people in the right way. I also developed a web application to visualize the result.
 
-[Project Notebook: Disaster Response]
-(https://github.com/zihuan426/Udacity_Data_Scientist_Portfolio/tree/master/Disaster_Response)
+[Project Notebook: ETL Pipeline](https://github.com/zihuan426/Udacity_Data_Scientist_Portfolio/blob/master/Disaster_Response/data/process_data.py)
+[Project Notebook: ML Pipeline](https://github.com/zihuan426/Udacity_Data_Scientist_Portfolio/blob/master/Disaster_Response/models/train_classifier.py)
